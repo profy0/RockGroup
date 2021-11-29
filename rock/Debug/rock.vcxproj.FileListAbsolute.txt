@@ -1,0 +1,2 @@
+C:\Users\nikit\source\repos\rock\Debug\rock.exe
+C:\Users\nikit\source\repos\rock\Debug\rock.pdb

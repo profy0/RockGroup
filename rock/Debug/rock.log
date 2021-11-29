@@ -1,0 +1,5 @@
+﻿  rock.cpp
+C:\Users\nikit\source\repos\rock\rock.cpp(98,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\rock\rock.cpp(102,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\rock\rock.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+  rock.vcxproj -> C:\Users\nikit\source\repos\rock\Debug\rock.exe
